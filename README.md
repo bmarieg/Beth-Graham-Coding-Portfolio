@@ -1,10 +1,14 @@
-# Python-for-Bioinformatics
+# Beth Graham
+## Bioinformatics Coding Portfolio
 
 Welcome!
 
-This repository will be a combined portfolio and teaching tool. It is a work in progress!
+I am using this repository as a coding portfolio. It does not contain a software package! Each file was included to demonstrate certain skills. It is a work in progress.
 
-Right now, all I have up here is a Jupyter Notebook demonstrating how to use Biopython to search the Entrez datbases and fetch individual sequences: Biopython_fetch_Entrez.ipynb
+Table of Contents:
+
+- "Search and Fetch from Entrez with Biopython": Jupyter notebook using Biopython
+- 
 
 Thanks for visiting!
 
