@@ -9,15 +9,21 @@ Table of Contents:
 
 - "Search and Fetch from Entrez with Biopython":
 
-Jupyter notebook using Biopython to access Entrez databases
+  Jupyter notebook demonstrating how to use Biopython to access Entrez databases
 
 - "Rename Fasta Sequences for Easy-to-Read Phylogenetic Trees":
 
-I created this tool to address a personal pet peeve: when you generate a phylogenetic tree from a multiple sequence alignment, the branches are often labeled with accession numbers (as opposed to gene and/or species names), which makes the trees difficult to interpret at a glance. Other times, branches are labeled with obscure scientific species names, which again makes trees difficult to interpret quickly and easily.
+  Jupyter notebook demonstrating a Python function I wrote that:
+    - Takes an input fasta file of protein sequences
+    - Uses the UniProtKB ID mapping service to retrieve the gene name for each protein sequence
+    - Uses the Entrez taxonomy database to retrieve the common name of the species of origin
+    - Renames each Fasta sequences with the gene name, species name, and UniprotKB ID
+    - Outputs a re-labeled Fasta file that can be used to generate easy-to-read multiple sequence alignments and phylogenetic trees
 
-This function uses the UniProtKB ID/accession number for each sequence to retrieve the gene name, scientific species name, and the common species name (if available on Entrez). The function then replaces the "description" of each Fasta sequence with an easy-to-read label consisting of the gene and species names. When the newly labeled list of Fasta sequences is used to generate a phylogenetic tree, the tree is much easier to interpret.
-
-
+Coming soon:
+- Interpreting RNA-Seq Data
+- Using R
+- Using R Markdown
 
 
 Thanks for visiting!
