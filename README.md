@@ -3,7 +3,7 @@
 
 Welcome!
 
-I am using this repository as a coding portfolio (it is not intended as a software package). Each file was included to demonstrate certain skills. I am currently in the process of building it.
+I am using this repository as a coding portfolio (it is not intended as a software package). It is a work in progress!
 
 Table of Contents:
 
