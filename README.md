@@ -33,7 +33,9 @@ I was teaching lab-based biology at Portland Community College when the world we
 
 #### Writing:
 
-Coming soon!
+Here is a not-quite-finished draft of the first chapter of my PhD dissertation: ["Identifying the Common Components of Membrane Fusion Machines"](https://docs.google.com/document/d/1bUYGTsRMB0lVJzBC3nTN7hvt32DH5XRr/edit?usp=sharing&ouid=118309257677713383248&rtpof=true&sd=true). It fits somewhere in between theoretical biology and a review article. Not only is it obnoxiously long, but I decided to illustrate it.
+
+
 
 #### Illustration:
 
