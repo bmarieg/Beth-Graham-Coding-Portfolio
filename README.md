@@ -33,13 +33,13 @@ I was teaching lab-based biology at Portland Community College when the world we
 
 #### Writing:
 
-Here is a not-quite-finished draft of the first chapter of my PhD dissertation: ["Identifying the Common Components of Membrane Fusion Machines"](https://docs.google.com/document/d/1bUYGTsRMB0lVJzBC3nTN7hvt32DH5XRr/edit?usp=sharing&ouid=118309257677713383248&rtpof=true&sd=true). It fits somewhere in between theoretical biology and a review article. Not only is it obnoxiously long, but I decided to illustrate it.
+Here is a not-quite-finished draft of the first chapter of my PhD dissertation: ["Identifying the Common Components of Membrane Fusion Machines"](https://docs.google.com/document/d/1bUYGTsRMB0lVJzBC3nTN7hvt32DH5XRr/edit?usp=sharing&ouid=118309257677713383248&rtpof=true&sd=true). It is a sort of theoretical biology/review article. Not only is it obnoxiously long, but I decided to illustrate it.
 
-
+Here is a term paper I wrote as a PhD student for a course in Comparative Reproduction: ["Why is Tetraspanin CD9 Essential for Murine Fertilization?"](https://docs.google.com/document/d/1M90gAly-qdR4Odhdg_seZO4lfe1Flz7A/edit?usp=share_link&ouid=118309257677713383248&rtpof=true&sd=true).
 
 #### Illustration:
 
-Coming soon!
+Just for fun, here is a random smattering of my illustrations: 
 
 Thanks for visiting!
 
