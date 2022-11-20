@@ -41,7 +41,7 @@ If you would prefer to download the Word documents directly, they are also inclu
 
 #### Illustration:
 
-Just for fun, here is a random smattering of my illustrations: 
+Just for fun, here is a random smattering of my illustrations: [Beth Graham - Illustration Styles](https://github.com/bmarieg/Beth-Graham-Coding-Portfolio/blob/c6617ababcca098ca55c235ed2004fee070f64b5/Beth%20Graham%20-%20Illustration%20Styles.ipynb)
 
 Thanks for visiting!
 
