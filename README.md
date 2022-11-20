@@ -31,7 +31,9 @@ Coming soon:
 
 I was teaching lab-based biology at Portland Community College when the world went in to quarantine. Along with my fellow instructors, I had to quickly adapt to teaching online. I developed a series of lecture videos covering the course textbook. Please keep in mind that these were developed on a time crunch during a global pandemic and without a lot of sleep. If you would like a short video, I recommend starting here: ["What is Science?"](https://youtu.be/r9BNrgbtHKU). The rest of my lecture videos are available on my YouTube channel, [@BethTeachesBio](https://www.youtube.com/channel/UCIcvnv_qJ68ERMucXHt-dXg).
 
-#### Writing:
+A while back, I started a blog with the intention of teaching bioinformatics in an approachable way. As you'll see, I didn't get very far, but you should get a sense of my style (plus I've got a cool URL): [bioinformatics.blog](https://bioinformatics.blog/)
+
+#### Scientific Writing:
 
 Here is a not-quite-finished draft of the first chapter of my PhD dissertation: ["Identifying the Common Components of Membrane Fusion Machines"](https://docs.google.com/document/d/1bUYGTsRMB0lVJzBC3nTN7hvt32DH5XRr/edit?usp=sharing&ouid=118309257677713383248&rtpof=true&sd=true). It is a sort of theoretical biology/review article. Not only is it obnoxiously long, but I decided to illustrate it.
 
