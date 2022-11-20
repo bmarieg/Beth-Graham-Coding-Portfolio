@@ -37,6 +37,8 @@ Here is a not-quite-finished draft of the first chapter of my PhD dissertation: 
 
 Here is a term paper I wrote as a PhD student for a course in Comparative Reproduction: ["Why is Tetraspanin CD9 Essential for Murine Fertilization?"](https://docs.google.com/document/d/1M90gAly-qdR4Odhdg_seZO4lfe1Flz7A/edit?usp=share_link&ouid=118309257677713383248&rtpof=true&sd=true).
 
+If you would prefer to download the Word documents directly, they are also included in this repository.
+
 #### Illustration:
 
 Just for fun, here is a random smattering of my illustrations: 
