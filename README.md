@@ -3,9 +3,11 @@
 
 Welcome!
 
-I am using this repository as a coding portfolio (it is not intended as a software package). It is a work in progress!
+I am using this repository as a coding and teaching portfolio. It is a work in progress!
 
-Table of Contents:
+### Table of Contents:
+
+#### Coding:
 
 - ["Search and Fetch from Entrez with Biopython"](https://github.com/bmarieg/Beth-Graham-Coding-Portfolio/blob/949dabb60c34dfda469bd6fc058f8b454cc93471/Search%20and%20fetch%20from%20Entrez%20with%20Biopython.ipynb):
 
@@ -24,6 +26,8 @@ Coming soon:
 - Interpreting RNA-Seq Data
 - Using R
 - Using R Markdown
+
+#### Teaching:
 
 I was teaching lab-based biology at Portland Community College when the world went in to quarantine. Along with my fellow instructors, I had to quickly adapt to teaching online. I developed a series of lecture videos covering the course textbook. Please keep in mind that these were developed on a time crunch during a global pandemic and without a lot of sleep. If you would like a short video, I recommend starting here: ["What is Science?"](https://youtu.be/r9BNrgbtHKU). The rest of my lecture videos are available on my YouTube channel, [@BethTeachesBio](https://www.youtube.com/channel/UCIcvnv_qJ68ERMucXHt-dXg).
 
