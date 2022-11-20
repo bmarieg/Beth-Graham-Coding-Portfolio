@@ -25,6 +25,9 @@ Coming soon:
 - Using R
 - Using R Markdown
 
+I was teaching lab-based biology at Portland Community College when the world went in to quarantine. Along with my fellow instructors, I had to quickly adapt to teaching online. I developed a series of lecture videos covering the course textbook. Please keep in mind that these were developed on a time crunch during a global pandemic and without a lot of sleep. If you would like a short video, I recommend starting here: ["What is Science?"](https://youtu.be/r9BNrgbtHKU). The rest of my lecture videos are available on my YouTube channel, [@BethTeachesBio](https://www.youtube.com/channel/UCIcvnv_qJ68ERMucXHt-dXg).
+
+
 
 Thanks for visiting!
 
