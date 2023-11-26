@@ -3,7 +3,7 @@
 
 Welcome!
 
-I am using this repository as a coding and teaching portfolio. It is a work in progress!
+I am using this repository as a coding portfolio. It is a work in progress!
 
 ### Python:
 
