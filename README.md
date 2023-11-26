@@ -5,9 +5,7 @@ Welcome!
 
 I am using this repository as a coding and teaching portfolio. It is a work in progress!
 
-### Table of Contents:
-
-#### Coding:
+### Python:
 
 - ["Search and Fetch from Entrez with Biopython"](https://github.com/bmarieg/Beth-Graham-Coding-Portfolio/blob/949dabb60c34dfda469bd6fc058f8b454cc93471/Search%20and%20fetch%20from%20Entrez%20with%20Biopython.ipynb):
 
@@ -22,7 +20,7 @@ I am using this repository as a coding and teaching portfolio. It is a work in p
     - Renames each Fasta sequences with the gene name, species name, and UniprotKB ID
     - Outputs a re-labeled Fasta file that can be used to generate easy-to-read multiple sequence alignments and phylogenetic trees
 
-Coming soon:
+###Coming soon:
 - Interpreting RNA-Seq Data
 - Using R
 - Using R Markdown
